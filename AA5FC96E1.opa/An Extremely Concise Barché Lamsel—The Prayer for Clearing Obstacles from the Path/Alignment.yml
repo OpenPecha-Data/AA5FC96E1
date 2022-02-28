@@ -1,0 +1,19 @@
+segment_sources:
+  P143DEE33:
+    type: origin_type
+    relation: translation
+    language: en
+  P4EB2C2F2:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  50becfcd59384dc9bc6d9612f8e35901:
+    P143DEE33: ab492b9a2a4c484eae0851fd50bfeb3e
+    P4EB2C2F2: 392f40646f094aaa91a2ba22979f1cb1
+  3c6900a04e2f439eb4fc58398e0a695d:
+    P143DEE33: 783a6101f4d145989c36853f69a24562
+    P4EB2C2F2: b2376e1e99234d54b317e8915bf3e398
+  154b88ccc7104d63b30a763cd78c5c81:
+    P143DEE33: 9470c39d3e0941d7bfd9c87385cd278d
+    P4EB2C2F2: 24dc113d463b4f3998135ce688b85ccf
